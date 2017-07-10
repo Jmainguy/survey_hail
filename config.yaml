@@ -1,0 +1,12 @@
+---
+
+sqldb: /opt/survey_hail/db.db
+userId: "u-wr1256btbzax124zr3vzi4i"
+token: "t-na7z12mypogkd1244bufd4i"
+secret: "omde5x12zrdhx124mi65udzm5fhnz2dka37suya"
+admin:
+  - "+19198675309"
+  - "+19195555555"
+  - "+14345555555"
+reportFile: /opt/survey_hail/report.csv
+surveyNumber: "+19191234567"
